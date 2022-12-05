@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AriJulias/MyBrow/static/css/main.a102879e.css",
+    "main.js": "/AriJulias/MyBrow/static/js/main.10cef8e3.js",
+    "static/js/787.e9c44193.chunk.js": "/AriJulias/MyBrow/static/js/787.e9c44193.chunk.js",
+    "index.html": "/AriJulias/MyBrow/index.html",
+    "main.a102879e.css.map": "/AriJulias/MyBrow/static/css/main.a102879e.css.map",
+    "main.10cef8e3.js.map": "/AriJulias/MyBrow/static/js/main.10cef8e3.js.map",
+    "787.e9c44193.chunk.js.map": "/AriJulias/MyBrow/static/js/787.e9c44193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.10cef8e3.js"
+  ]
+}
